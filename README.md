@@ -26,6 +26,9 @@ to increase revenue, improve retention, and optimize marketing strategies.
 | `Customer_Behaviour_Analysis_Report.docx` | Complete Project Report |
 | `Customer_Behaviour_Analysis_Presentation.pptx` | Project Presentation |
 
+## 📺 Live Dashboard
+👉 [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTg2MzU4ODItZWJhYi00MGQ4LTkzYjUtMWYyODhmNWZiNDg2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 ## 🔍 Key Insights
 
 - 📦 **Electronics** drives 49% of revenue but has the **lowest ratings**
